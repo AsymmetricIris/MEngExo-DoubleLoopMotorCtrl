@@ -5,6 +5,6 @@ Currently, the position control loop behaves approimately as intended
 ![Currently, the position control loop behaves approimately as intended](https://github.com/AsymmetricIris/MEngExo-DoubleLoopMotorCtrl/blob/master/img/pos_ctrl.png?raw=true)
  \
  \
+ \
 H-bridge sub-ciscuit used within the above position control loop
 ![H-bridge sub-ciscuit used within the above position control loop](https://github.com/AsymmetricIris/MEngExo-DoubleLoopMotorCtrl/blob/master/img/h-bridge.png?raw=true)
- \
