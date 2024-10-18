@@ -8,3 +8,8 @@ Currently, the position control loop behaves approimately as intended
  \
 H-bridge sub-ciscuit used within the above position control loop
 ![H-bridge sub-ciscuit used within the above position control loop](https://github.com/AsymmetricIris/MEngExo-DoubleLoopMotorCtrl/blob/master/img/h-bridge.png?raw=true)
+ \
+ \
+ \
+Gantt Chart Showing of Current Progress
+![Gantt Chart Showing of Current Progress](https://github.com/AsymmetricIris/MEngExo-DoubleLoopMotorCtrl/blob/master/img/plan.png?raw=true)
