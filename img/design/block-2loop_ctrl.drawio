@@ -1,0 +1,64 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">
+    <mxGraphModel dx="2146" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-YvUdxDlbiYa1q0gGxLQ-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="-YvUdxDlbiYa1q0gGxLQ-2" target="-YvUdxDlbiYa1q0gGxLQ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-YvUdxDlbiYa1q0gGxLQ-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.sum;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="590" y="190" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-YvUdxDlbiYa1q0gGxLQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="-YvUdxDlbiYa1q0gGxLQ-3" target="-YvUdxDlbiYa1q0gGxLQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-YvUdxDlbiYa1q0gGxLQ-3" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.multiplier;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-YvUdxDlbiYa1q0gGxLQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="-YvUdxDlbiYa1q0gGxLQ-4" target="-YvUdxDlbiYa1q0gGxLQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-YvUdxDlbiYa1q0gGxLQ-4" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.multiplier;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="520" y="95" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-YvUdxDlbiYa1q0gGxLQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="-YvUdxDlbiYa1q0gGxLQ-5" target="-YvUdxDlbiYa1q0gGxLQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-YvUdxDlbiYa1q0gGxLQ-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.delta;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="310" y="280" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-YvUdxDlbiYa1q0gGxLQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="-YvUdxDlbiYa1q0gGxLQ-10" target="-YvUdxDlbiYa1q0gGxLQ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-YvUdxDlbiYa1q0gGxLQ-10" value="Target angle" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="30" y="290" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-YvUdxDlbiYa1q0gGxLQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="-YvUdxDlbiYa1q0gGxLQ-12" target="-YvUdxDlbiYa1q0gGxLQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-YvUdxDlbiYa1q0gGxLQ-12" value="Move Direction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="30" y="105" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-YvUdxDlbiYa1q0gGxLQ-18" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="-YvUdxDlbiYa1q0gGxLQ-14" target="-YvUdxDlbiYa1q0gGxLQ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-YvUdxDlbiYa1q0gGxLQ-14" value="Motor" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="710" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-YvUdxDlbiYa1q0gGxLQ-17" value="Shaft Angle" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="920" y="185" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-YvUdxDlbiYa1q0gGxLQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-YvUdxDlbiYa1q0gGxLQ-17" target="-YvUdxDlbiYa1q0gGxLQ-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="395" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="985" y="425" />
+              <mxPoint x="335" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
